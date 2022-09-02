@@ -1,4 +1,4 @@
-#Project: Recipes
+# Project: Recipes
 
 ### [Demo](https://kengyn.github.io/odin-recipes/)
 
